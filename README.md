@@ -9,3 +9,7 @@ HerokuにUpするファイルは
 todaysholobot
 です.
 
+
+
+QRコードからLineBot追加できます
+![todaysholo](https://user-images.githubusercontent.com/66073980/95099403-c6502100-076a-11eb-8c19-97e9b054f4e7.png)
