@@ -1,0 +1,3 @@
+[submodule "todaysholobot"]
+	path = todaysholobot
+	url = https://git.heroku.com/todaysholobot.git
